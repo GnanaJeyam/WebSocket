@@ -1,2 +1,2 @@
 # WebSocket
-Websocket Sample Example in Spring-Boot
+Spring-Boot Websocket Example. 
